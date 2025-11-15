@@ -1,0 +1,95 @@
+header{
+    background-color: rgb(113, 147, 150);
+    color:antiquewhite;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    padding:10px;
+}
+
+body{
+    background-color: rgb(80, 106, 121);
+    color:antiquewhite;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    padding:20px;
+    font-size: 25px;
+}
+
+h3{
+    text-align: center;
+    padding:10px;
+}
+
+h4{
+    text-align: center;
+}
+
+.cons1, .cons2{
+    height: 400px;
+    width: 500px;
+}
+
+.far1{
+    height: 250px;
+    width: 300px;
+}
+
+.far2{
+    height: 250px;
+    width: 450px;
+}
+
+p{
+    text-align: center;
+    font-size: 35px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(10, 9, 46);
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgb(66, 68, 73);
+}
+
+table{
+    border-collapse:separate;
+    border: 3px solid #ffffff;
+    border-spacing: 0 10px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 18px;
+    width: 100%;
+    background-color: rgb(93, 126, 128);
+    text-align: left;
+    table-layout: fixed;
+}
+
+table th{
+    background-color: rgb(75, 113, 116);
+    text-align:left;
+    border: 1px solid #4a6a70;
+  padding: 10px 15px;
+  vertical-align: top;
+  word-wrap: break-word;
+}
+
+table td{
+    border:5px;
+    text-align: left;
+    border: 1px solid #4a6a70;
+  padding: 10px 15px;
+  vertical-align: top;
+  word-wrap: break-word;
+}
+
+.infnut1{
+    width: 300px;
+    height: 200px;
+    padding:10 px;
+    margin: 10px;
+}
